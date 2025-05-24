@@ -1,3 +1,81 @@
 body{
     background-color: antiquewhite;
 }
+
+.img {
+  width: 40px;
+}
+
+.select {
+  border: 2px white solid;
+  border-radius: 0.5em;
+  margin-bottom: 0.2em;
+  margin-left: 1.5em;
+  width: 10em;
+  padding-left: 1em;
+  color: white;
+}
+
+ol>li>a{
+  color: white;
+  margin-left: 1em;
+  text-decoration: none;
+}
+
+.li {
+  border: 1px solid brown;
+  width: 90%;
+  margin-left: 1em;
+  margin-top: 0.3em;
+  padding-left: 0.5em;
+}
+
+.vista{
+  font-size: 1.3em;
+  color: brown;
+  font-style: italic;
+}
+
+.carm {
+  background-color: brown;
+  color: white;
+  padding-inline: 1.4em;
+  margin-top: 3em;
+  margin-left: 2em;
+}
+
+.title {
+  font-size: 1.3em;
+  border: 4px brown double;
+  border-radius: 1em;
+  padding: 1em;
+  margin-left: 2em;
+  width: 90%;
+}
+
+.nota {
+  border: 1px solid brown;
+  padding: 0.3em;
+  text-align: center;
+margin: 2em;
+width: 15em;
+
+}
+
+.tonos{
+  width: 100em;
+}
+
+pre{
+  color: red;
+}
+
+H2{
+  color: blue;
+}
+
+hr{
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
